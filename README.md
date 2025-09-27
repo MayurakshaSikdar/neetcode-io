@@ -22,9 +22,8 @@
 - 📧 **Email:** mayurakshasikdar@gmail.com  |  adataguy.in@gmail.com
 - 📱 **Phone:** +353 0894370260  |  +91 8100132483
 - 📍 **Location:** Dublin, Ireland  |  ✈ India
-- 🌐 **Website:** [A Data Guy](https://adataguy.in/)
-- 🔗 **Profiles:** [LinkedIn](https://www.linkedin.com/in/mayuraksha-sikdar/) | [GitHub](https://github.com/MayurakshaSikdar) | [Medium](https://medium.com/@mayurakshasikdar) | [Topmate](https://topmate.io/mayuraksha_sikdar)
-
+- 🌐 **Website:** <a href="https://adataguy.in/" target="_blank">A Data Guy</a>
+- 🔗 **Profiles:** <a href="https://www.linkedin.com/in/mayuraksha-sikdar/" target="_blank">LinkedIn</a> | <a href="https://github.com/MayurakshaSikdar" target="_blank">GitHub</a> | <a href="https://medium.com/@mayurakshasikdar" target="_blank">Medium</a> | <a href="https://topmate.io/mayuraksha_sikdar" target="_blank">Topmate</a>
 ---
 
 ## 📖 Overview
