@@ -68,6 +68,14 @@ This repository can serve as:
     │   ├── Q7.py
     │   ├── Q8.py
     │   └── Q9.py
+    ├── Stack
+    │   ├── Q1.py
+    │   ├── Q2.py
+    │   ├── Q3.py
+    │   ├── Q4.py
+    │   ├── Q5.py
+    │   ├── Q6.py
+    │   ├── Q7.py
     └── README.md
 ```
 
@@ -100,6 +108,20 @@ This repository can serve as:
 			<tr><td><b><a href='Array/Q7.py'>Q7.py</a></b></td><td><code>Products of Array Except Self</code></td></tr>
 			<tr><td><b><a href='Array/Q8.py'>Q8.py</a></b></td><td><code>Valid Sudoku</code></td></tr>
 			<tr><td><b><a href='Array/Q9.py'>Q9.py</a></b></td><td><code>Longest Consecutive Sequence</code></td></tr>
+			</table>
+		</blockquote>
+	</details>
+	<details>
+		<summary><b>Stack</b></summary>
+		<blockquote>
+			<table>
+			<tr><td><b><a href='Stack/Q1.py'>Q1.py</a></b></td><td><code>Validate Parentheses</code></td></tr>
+			<tr><td><b><a href='Stack/Q2.py'>Q2.py</a></b></td><td><code>Minimum Stack</code></td></tr>
+			<tr><td><b><a href='Stack/Q3.py'>Q3.py</a></b></td><td><code>Evaluate Reverse Polish Notation</code></td></tr>
+			<tr><td><b><a href='Stack/Q4.py'>Q4.py</a></b></td><td><code>Generate Parentheses</code></td></tr>
+			<tr><td><b><a href='Stack/Q5.py'>Q5.py</a></b></td><td><code>Daily Temperatures</code></td></tr>
+			<tr><td><b><a href='Stack/Q6.py'>Q6.py</a></b></td><td><code>Car Fleet</code></td></tr>
+			<tr><td><b><a href='Stack/Q7.py'>Q7.py</a></b></td><td><code>Largest Rectangle in Histogram</code></td></tr>
 			</table>
 		</blockquote>
 	</details>
