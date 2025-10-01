@@ -68,6 +68,14 @@ This repository can serve as:
     │   ├── Q7.py
     │   ├── Q8.py
     │   └── Q9.py
+    ├── Binary Search
+    │   ├── Q1.py
+    │   ├── Q2.py
+    │   ├── Q3.py
+    │   ├── Q4.py
+    │   ├── Q5.py
+    │   ├── Q6.py
+    │   └── Q7.py
     ├── Stack
     │   ├── Q1.py
     │   ├── Q2.py
@@ -108,6 +116,20 @@ This repository can serve as:
 			<tr><td><b><a href='Array/Q7.py'>Q7.py</a></b></td><td><code>Products of Array Except Self</code></td></tr>
 			<tr><td><b><a href='Array/Q8.py'>Q8.py</a></b></td><td><code>Valid Sudoku</code></td></tr>
 			<tr><td><b><a href='Array/Q9.py'>Q9.py</a></b></td><td><code>Longest Consecutive Sequence</code></td></tr>
+			</table>
+		</blockquote>
+	</details>
+	<details>
+		<summary><b>Binary Search</b></summary>
+		<blockquote>
+			<table>
+			<tr><td><b><a href='Binary Search/Q1.py'>Q1.py</a></b></td><td><code>Binary Search</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q2.py'>Q2.py</a></b></td><td><code>Search in 2D Matrix</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q3.py'>Q3.py</a></b></td><td><code>KOKO Eating Bananas</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q4.py'>Q4.py</a></b></td><td><code>Find Minimum in Rotated Sorted Array</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q5.py'>Q5.py</a></b></td><td><code>Search in Rotated Sorted Array</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q6.py'>Q6.py</a></b></td><td><code>Time Based Key-Value Store</code></td></tr>
+			<tr><td><b><a href='Binary Search/Q7.py'>Q7.py</a></b></td><td><code>Median of Two Sorted Arrays</code></td></tr>
 			</table>
 		</blockquote>
 	</details>
@@ -166,6 +188,7 @@ python Array/Q1.py
 ## 🙏 Acknowledgments
 
 * Inspired by [NeetCode](https://neetcode.io)
+* Thanks to [Navdeep Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161/) - Founder of NeetCode
 * Thanks to the open-source community for providing problem statements and discussions.
 
 ---
