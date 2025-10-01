@@ -91,7 +91,7 @@ This repository can serve as:
 
 <details open>
 	<summary><b><code>NEETCODE-IO/</code></b></summary>
-	<details>
+	<details style="margin-left:20px;">
 		<summary><b>2-Pointer</b></summary>
 		<blockquote>
 			<table>
@@ -103,7 +103,7 @@ This repository can serve as:
 			</table>
 		</blockquote>
 	</details>
-	<details>
+	<details style="margin-left:20px;">
 		<summary><b>Array</b></summary>
 		<blockquote>
 			<table>
@@ -119,7 +119,7 @@ This repository can serve as:
 			</table>
 		</blockquote>
 	</details>
-	<details>
+	<details style="margin-left:20px;">
 		<summary><b>Binary Search</b></summary>
 		<blockquote>
 			<table>
@@ -133,7 +133,7 @@ This repository can serve as:
 			</table>
 		</blockquote>
 	</details>
-	<details>
+	<details style="margin-left:20px;">
 		<summary><b>Stack</b></summary>
 		<blockquote>
 			<table>
