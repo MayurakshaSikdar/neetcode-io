@@ -49,7 +49,3 @@ class Solution:
         if len(nums) % 2 == 1:
             return float(nums[len(nums)//2])
         return (nums[len(nums)//2] + nums[len(nums)//2-1]) / 2
-
-print(Solution().findMedianSortedArrays(nums1 = [1,2], nums2 = [3]))
-print(Solution().findMedianSortedArrays(nums1 = [1,3], nums2 = [2,4]))
-print(Solution().findMedianSortedArrays(nums1 = [1,3,5,6,7], nums2 = [2,4,5,6]))
