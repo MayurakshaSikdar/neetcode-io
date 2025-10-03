@@ -76,6 +76,13 @@ This repository can serve as:
     │   ├── Q5.py
     │   ├── Q6.py
     │   └── Q7.py
+    ├── Sliding Window
+    │   ├── Q1.py
+    │   ├── Q2.py
+    │   ├── Q3.py
+    │   ├── Q4.py
+    │   ├── Q5.py
+    │   └── Q6.py
     ├── Stack
     │   ├── Q1.py
     │   ├── Q2.py
@@ -130,6 +137,19 @@ This repository can serve as:
 			<tr><td><b><a href='Binary Search/Q5.py'>Q5.py</a></b></td><td><code>Search in Rotated Sorted Array</code></td></tr>
 			<tr><td><b><a href='Binary Search/Q6.py'>Q6.py</a></b></td><td><code>Time Based Key-Value Store</code></td></tr>
 			<tr><td><b><a href='Binary Search/Q7.py'>Q7.py</a></b></td><td><code>Median of Two Sorted Arrays</code></td></tr>
+			</table>
+		</blockquote>
+	</details>
+	<details style="margin-left:20px;">
+		<summary><b>Sliding Window</b></summary>
+		<blockquote>
+			<table>
+			<tr><td><b><a href='Sliding Window/Q1.py'>Q1.py</a></b></td><td><code>Buy and sell crypto</code></td></tr>
+			<tr><td><b><a href='Sliding Window/Q2.py'>Q2.py</a></b></td><td><code>Longest substring without duplicates</code></td></tr>
+			<tr><td><b><a href='Sliding Window/Q3.py'>Q3.py</a></b></td><td><code>Longest repeating substring with replacement</code></td></tr>
+			<tr><td><b><a href='Sliding Window/Q4.py'>Q4.py</a></b></td><td><code>Permutation string</code></td></tr>
+			<tr><td><b><a href='Sliding Window/Q5.py'>Q5.py</a></b></td><td><code>Minimum window with characters</code></td></tr>
+			<tr><td><b><a href='Sliding Window/Q6.py'>Q6.py</a></b></td><td><code>Sliding window maximum</code></td></tr>
 			</table>
 		</blockquote>
 	</details>
